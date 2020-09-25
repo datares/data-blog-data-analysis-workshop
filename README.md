@@ -1,5 +1,4 @@
 # Data Blog - Data Analysis Workshop
-
 ** October 10th, 2020 **
 
 This workshop is designed to teach the fundamentals of data analysis and storytelling for the Data Blog Team in DataRes.
