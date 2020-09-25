@@ -1,7 +1,7 @@
 # Data Blog - Data Analysis Workshop
 **October 10th, 2020**
 
-This workshop is designed to teach the fundamentals of data analysis and storytelling for the Data Blog Team in DataRes.
+This workshop is designed to teach the fundamentals of data analysis and storytelling to the Data Blog Team in DataRes.
 
 This repository contains a Jupyter Notebook that introduces basic EDA commands and visualizations applied to the dataset: [120 years of Olympic history: athletes and results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home) from Kaggle.
 
