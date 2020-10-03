@@ -23,5 +23,3 @@ The dataset contains the following column variables to be explored:
 - `Medal`: Gold, Silver, Bronze, or NA
 
 
-
-Created by Michelle Lee.
